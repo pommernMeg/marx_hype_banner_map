@@ -11,7 +11,8 @@
         "type": "Point"
       },
       "properties": {
-        "name": "Marx is calling you - Berlin"
+        "name": "Marx is calling you - Berlin",
+        "description": "https://bannergress.com/banner/marx-is-calling-you-berlin-6c02"
       },
       "id": "cxNDk"
     },
@@ -25,7 +26,8 @@
         "type": "Point"
       },
       "properties": {
-        "name": "Marx is calling you - Neubrandenburg "
+        "name": "Marx is calling you - Neubrandenburg ",
+        "description": "https://bannergress.com/banner/marx-is-calling-you-neubrandenburg-459a"
       },
       "id": "kxMzQ"
     },
@@ -39,7 +41,8 @@
         "type": "Point"
       },
       "properties": {
-        "name": "Marx is calling you to Chemnitz "
+        "name": "Marx is calling you to Chemnitz",
+        "description": "https://bannergress.com/banner/marx-is-calling-you-to-chemnitz-0dd8"
       },
       "id": "U2MDE"
     }
