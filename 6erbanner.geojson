@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.41451,
+          52.521764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Marx is calling you - Berlin"
+      },
+      "id": "cxNDk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.261756,
+          53.561402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Marx is calling you - Neubrandenburg "
+      },
+      "id": "kxMzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          12.923279,
+          50.835871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Marx is calling you to Chemnitz "
+      },
+      "id": "U2MDE"
+    }
+  ]
+}
