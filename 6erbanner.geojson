@@ -1,50 +1,53 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          13.41451,
-          52.521764
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": "Marx is calling you - Berlin",
-        "description": "https://bannergress.com/banner/marx-is-calling-you-berlin-6c02"
-      },
-      "id": "cxNDk"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          13.261756,
-          53.561402
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": "Marx is calling you - Neubrandenburg ",
-        "description": "https://bannergress.com/banner/marx-is-calling-you-neubrandenburg-459a"
-      },
-      "id": "kxMzQ"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          12.923279,
-          50.835871
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": "Marx is calling you to Chemnitz",
-        "description": "https://bannergress.com/banner/marx-is-calling-you-to-chemnitz-0dd8"
-      },
-      "id": "U2MDE"
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    13.41451,
+                    52.521764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Berlin",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-berlin-6c02",
+                "picture": "https://api.bannergress.com/bnrs/pictures/b4febc4fc81e9a74a0a8f4477b56ed56"
+            },
+            "id": "6c02"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    13.261756,
+                    53.561402
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Neubrandenburg",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-neubrandenburg-459a",
+                "picture": "https://api.bannergress.com/bnrs/pictures/6b0ad5ccfffd041be5a78ec6f05071c3"
+            },
+            "id": "459a"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.923279,
+                    50.835871
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you to Chemnitz!",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-to-chemnitz-0dd8",
+                "picture": "https://api.bannergress.com/bnrs/pictures/610a867b268f6f451dbcb192c4151a7c"
+            },
+            "id": "0dd8"
+        }
+    ]
 }
