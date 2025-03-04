@@ -1,20 +1,21 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          12.922648,
-          50.836097
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": "Marx-O-Maly is calling you to Chemnitz ",
-        "description": "https://bannergress.com/banner/marx-o-maly-is-calling-you-to-chemnitz-2fc4"
-      },
-      "id": "U2MDE"
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.923279,
+                    50.835871
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx-O-Maly is calling you to Chemnitz!",
+                "url": "https://bannergress.com/banner/marx-o-maly-is-calling-you-to-chemnitz-2fc4",
+                "picture": "https://api.bannergress.com/bnrs/pictures/9f3c3d11f740189d41af5f1d38fd7d18"
+            },
+            "id": "2fc4"
+        }
+    ]
 }
