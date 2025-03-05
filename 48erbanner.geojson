@@ -5,8 +5,24 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.923279,
-                    50.835871
+                    3.618994,
+                    51.495449
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Chemnitz  +Theta - Middelburg",
+                "url": "https://bannergress.com/banner/chemnitz-theta-middelburg-6751",
+                "picture": "https://api.bannergress.com/bnrs/pictures/735ff0ce57508a05a00c911759361cd6"
+            },
+            "id": "6751"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.9224599,
+                    50.8359178
                 ],
                 "type": "Point"
             },
