@@ -5,6 +5,54 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    3.490218,
+                    51.563202
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Chemnitz +Theta - Domburg",
+                "url": "https://bannergress.com/banner/chemnitz-theta-domburg-478b",
+                "picture": "https://api.bannergress.com/bnrs/pictures/ee0f5ca50f1cc8d4c78b1820541bc873"
+            },
+            "id": "478b"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    3.556956,
+                    51.45045
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Chemnitz +Theta - Vlissingen",
+                "url": "https://bannergress.com/banner/chemnitz-theta-vlissingen-6ebd",
+                "picture": "https://api.bannergress.com/bnrs/pictures/48e75cdfadb6e7688c6b580ccd559e26"
+            },
+            "id": "6ebd"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.923279,
+                    50.835871
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you to Chemnitz!",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-to-chemnitz-0dd8",
+                "picture": "https://api.bannergress.com/bnrs/pictures/610a867b268f6f451dbcb192c4151a7c"
+            },
+            "id": "0dd8"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     13.41451,
                     52.521764
                 ],
@@ -37,17 +85,33 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.923279,
-                    50.835871
+                    14.249602,
+                    40.835365
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Marx is calling you to Chemnitz!",
-                "url": "https://bannergress.com/banner/marx-is-calling-you-to-chemnitz-0dd8",
-                "picture": "https://api.bannergress.com/bnrs/pictures/610a867b268f6f451dbcb192c4151a7c"
+                "name": "Marx is calling you - Naples",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-naples-84fa",
+                "picture": "https://api.bannergress.com/bnrs/pictures/f26a40713f99499a2b52c029a2ea8f5d"
             },
-            "id": "0dd8"
+            "id": "84fa"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    13.733768,
+                    51.050241
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Dresden",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-dresden-cd33",
+                "picture": "https://api.bannergress.com/bnrs/pictures/45a31793722a095ecab7da35b4c612c3"
+            },
+            "id": "cd33"
         }
     ]
 }
