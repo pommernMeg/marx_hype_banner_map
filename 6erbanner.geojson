@@ -101,6 +101,38 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    5.168327,
+                    50.942425
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - HdS",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-hds-d259",
+                "picture": "https://api.bannergress.com/bnrs/pictures/8fee7a6bdf55c282fd3d2de30e3d42a9"
+            },
+            "id": "d259"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    9.05487,
+                    48.516639
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Tübingen #Ingress2S",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-tübingen-ingress2s-0126",
+                "picture": "https://api.bannergress.com/bnrs/pictures/db354772aba6f5b9fe7b6321a5122edb"
+            },
+            "id": "0126"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     13.733768,
                     51.050241
                 ],
