@@ -53,6 +53,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    6.462919,
+                    52.366353
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you! Nijverdal",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-nijverdal-8efd",
+                "picture": "https://api.bannergress.com/bnrs/pictures/f6ed0fcc1f483c92cae3c7751a30b73d"
+            },
+            "id": "8efd"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     13.41451,
                     52.521764
                 ],
