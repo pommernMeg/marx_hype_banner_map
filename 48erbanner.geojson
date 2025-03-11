@@ -32,6 +32,38 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/9f3c3d11f740189d41af5f1d38fd7d18"
             },
             "id": "2fc4"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    10.779112,
+                    51.834139
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Wernigerode",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-wernigerode-4652",
+                "picture": "https://api.bannergress.com/bnrs/pictures/4adb97fb1e2b16491d010bf072ac1cd1"
+            },
+            "id": "4652"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    17.021367,
+                    51.111155
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Wrocław",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-wrocław-ca1b",
+                "picture": "https://api.bannergress.com/bnrs/pictures/3754caab727779848f546f35d285e22b"
+            },
+            "id": "ca1b"
         }
     ]
 }
