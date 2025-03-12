@@ -37,6 +37,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    8.548638,
+                    47.366538
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Chemnitz +Theta Anomaly Welcomes Züri RES",
+                "url": "https://bannergress.com/banner/chemnitz-theta-anomaly-welcomes-züri-res-e05b",
+                "picture": "https://api.bannergress.com/bnrs/pictures/9629ad9b8fa280a6bff0ac3b704c47dc"
+            },
+            "id": "e05b"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     12.923279,
                     50.835871
                 ],
@@ -80,6 +96,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/90664057f582789b8978490fc94f092c"
             },
             "id": "a868"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.986922,
+                    55.604772
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Malmö",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-malmö-1e98",
+                "picture": "https://api.bannergress.com/bnrs/pictures/15e7ab40492786de84312123001c6348"
+            },
+            "id": "1e98"
         },
         {
             "type": "Feature",
@@ -176,22 +208,6 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/db354772aba6f5b9fe7b6321a5122edb"
             },
             "id": "0126"
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "coordinates": [
-                    13.733768,
-                    51.050241
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Marx is calling you - Dresden",
-                "url": "https://bannergress.com/banner/marx-is-calling-you-dresden-cd33",
-                "picture": "https://api.bannergress.com/bnrs/pictures/45a31793722a095ecab7da35b4c612c3"
-            },
-            "id": "cd33"
         }
     ]
 }
