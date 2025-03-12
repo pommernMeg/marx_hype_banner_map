@@ -37,22 +37,6 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    8.548638,
-                    47.366538
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Chemnitz +Theta Anomaly Welcomes Züri RES",
-                "url": "https://bannergress.com/banner/chemnitz-theta-anomaly-welcomes-züri-res-e05b",
-                "picture": "https://api.bannergress.com/bnrs/pictures/9629ad9b8fa280a6bff0ac3b704c47dc"
-            },
-            "id": "e05b"
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "coordinates": [
                     12.923279,
                     50.835871
                 ],
