@@ -13,7 +13,8 @@
             "properties": {
                 "name": "Chemnitz +Theta - Domburg",
                 "url": "https://bannergress.com/banner/chemnitz-theta-domburg-478b",
-                "picture": "https://api.bannergress.com/bnrs/pictures/ee0f5ca50f1cc8d4c78b1820541bc873"
+                "picture": "https://api.bannergress.com/bnrs/pictures/ee0f5ca50f1cc8d4c78b1820541bc873",
+                "category": "6"
             },
             "id": "478b"
         },
@@ -29,7 +30,8 @@
             "properties": {
                 "name": "Chemnitz +Theta - Vlissingen",
                 "url": "https://bannergress.com/banner/chemnitz-theta-vlissingen-6ebd",
-                "picture": "https://api.bannergress.com/bnrs/pictures/48e75cdfadb6e7688c6b580ccd559e26"
+                "picture": "https://api.bannergress.com/bnrs/pictures/48e75cdfadb6e7688c6b580ccd559e26",
+                "category": "6"
             },
             "id": "6ebd"
         },
@@ -45,7 +47,8 @@
             "properties": {
                 "name": "Marx is calling you to Chemnitz!",
                 "url": "https://bannergress.com/banner/marx-is-calling-you-to-chemnitz-0dd8",
-                "picture": "https://api.bannergress.com/bnrs/pictures/610a867b268f6f451dbcb192c4151a7c"
+                "picture": "https://api.bannergress.com/bnrs/pictures/610a867b268f6f451dbcb192c4151a7c",
+                "category": "6"
             },
             "id": "0dd8"
         },
@@ -61,7 +64,8 @@
             "properties": {
                 "name": "Marx is calling you! Nijverdal",
                 "url": "https://bannergress.com/banner/marx-is-calling-you-nijverdal-8efd",
-                "picture": "https://api.bannergress.com/bnrs/pictures/f6ed0fcc1f483c92cae3c7751a30b73d"
+                "picture": "https://api.bannergress.com/bnrs/pictures/f6ed0fcc1f483c92cae3c7751a30b73d",
+                "category": "6"
             },
             "id": "8efd"
         },
@@ -77,7 +81,8 @@
             "properties": {
                 "name": "Marx is calling you -  Belgian Quarter CGN",
                 "url": "https://bannergress.com/banner/marx-is-calling-you-belgian-quarter-cgn-a868",
-                "picture": "https://api.bannergress.com/bnrs/pictures/90664057f582789b8978490fc94f092c"
+                "picture": "https://api.bannergress.com/bnrs/pictures/90664057f582789b8978490fc94f092c",
+                "category": "6"
             },
             "id": "a868"
         },
@@ -93,7 +98,8 @@
             "properties": {
                 "name": "Marx is calling you - Malmö",
                 "url": "https://bannergress.com/banner/marx-is-calling-you-malmö-1e98",
-                "picture": "https://api.bannergress.com/bnrs/pictures/15e7ab40492786de84312123001c6348"
+                "picture": "https://api.bannergress.com/bnrs/pictures/15e7ab40492786de84312123001c6348",
+                "category": "6"
             },
             "id": "1e98"
         },
@@ -109,7 +115,8 @@
             "properties": {
                 "name": "Marx is calling you - Berlin",
                 "url": "https://bannergress.com/banner/marx-is-calling-you-berlin-6c02",
-                "picture": "https://api.bannergress.com/bnrs/pictures/b4febc4fc81e9a74a0a8f4477b56ed56"
+                "picture": "https://api.bannergress.com/bnrs/pictures/b4febc4fc81e9a74a0a8f4477b56ed56",
+                "category": "6"
             },
             "id": "6c02"
         },
@@ -125,7 +132,8 @@
             "properties": {
                 "name": "Marx is calling you - Neubrandenburg",
                 "url": "https://bannergress.com/banner/marx-is-calling-you-neubrandenburg-459a",
-                "picture": "https://api.bannergress.com/bnrs/pictures/6b0ad5ccfffd041be5a78ec6f05071c3"
+                "picture": "https://api.bannergress.com/bnrs/pictures/6b0ad5ccfffd041be5a78ec6f05071c3",
+                "category": "6"
             },
             "id": "459a"
         },
@@ -141,7 +149,8 @@
             "properties": {
                 "name": "Marx is calling you - Naples",
                 "url": "https://bannergress.com/banner/marx-is-calling-you-naples-84fa",
-                "picture": "https://api.bannergress.com/bnrs/pictures/f26a40713f99499a2b52c029a2ea8f5d"
+                "picture": "https://api.bannergress.com/bnrs/pictures/f26a40713f99499a2b52c029a2ea8f5d",
+                "category": "6"
             },
             "id": "84fa"
         },
@@ -157,7 +166,8 @@
             "properties": {
                 "name": "Marx is calling you - Konstanz",
                 "url": "https://bannergress.com/banner/marx-is-calling-you-konstanz-a101",
-                "picture": "https://api.bannergress.com/bnrs/pictures/79909f6b5d27738e279f18039c1f8174"
+                "picture": "https://api.bannergress.com/bnrs/pictures/79909f6b5d27738e279f18039c1f8174",
+                "category": "6"
             },
             "id": "a101"
         },
@@ -173,7 +183,8 @@
             "properties": {
                 "name": "Marx is calling you - HdS",
                 "url": "https://bannergress.com/banner/marx-is-calling-you-hds-d259",
-                "picture": "https://api.bannergress.com/bnrs/pictures/8fee7a6bdf55c282fd3d2de30e3d42a9"
+                "picture": "https://api.bannergress.com/bnrs/pictures/8fee7a6bdf55c282fd3d2de30e3d42a9",
+                "category": "6"
             },
             "id": "d259"
         },
@@ -189,7 +200,8 @@
             "properties": {
                 "name": "Marx is calling you - Tübingen #Ingress2S",
                 "url": "https://bannergress.com/banner/marx-is-calling-you-tübingen-ingress2s-0126",
-                "picture": "https://api.bannergress.com/bnrs/pictures/db354772aba6f5b9fe7b6321a5122edb"
+                "picture": "https://api.bannergress.com/bnrs/pictures/db354772aba6f5b9fe7b6321a5122edb",
+                "category": "6"
             },
             "id": "0126"
         }
