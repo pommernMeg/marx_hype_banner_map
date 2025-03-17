@@ -181,6 +181,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    9.98378,
+                    53.549459
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Hamburg",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-hamburg-53ec",
+                "picture": "https://api.bannergress.com/bnrs/pictures/728d6da5168c16539b612bf644da5e95"
+            },
+            "id": "53ec"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     5.168327,
                     50.942425
                 ],
