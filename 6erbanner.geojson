@@ -226,4 +226,20 @@
             "id": "0126"
         },
         {
- 
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    13.733768,
+                    51.050241
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Dresden",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-dresden-cd33",
+                "picture": "https://api.bannergress.com/bnrs/pictures/45a31793722a095ecab7da35b4c612c3"
+            },
+            "id": "cd33"
+        }
+    ]
+}
