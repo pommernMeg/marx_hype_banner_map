@@ -85,6 +85,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    7.845071,
+                    47.995507
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Freiburg",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-freiburg-0894",
+                "picture": "https://api.bannergress.com/bnrs/pictures/5a8d78c140da82e750675858a9d1a0a9"
+            },
+            "id": "0894"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     12.986922,
                     55.604772
                 ],
@@ -210,20 +226,4 @@
             "id": "0126"
         },
         {
-            "type": "Feature",
-            "geometry": {
-                "coordinates": [
-                    13.733768,
-                    51.050241
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Marx is calling you - Dresden",
-                "url": "https://bannergress.com/banner/marx-is-calling-you-dresden-cd33",
-                "picture": "https://api.bannergress.com/bnrs/pictures/45a31793722a095ecab7da35b4c612c3"
-            },
-            "id": "cd33"
-        }
-    ]
-}
+ 
