@@ -101,6 +101,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    11.919342,
+                    50.314277
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Hof",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-hof-7606",
+                "picture": "https://api.bannergress.com/bnrs/pictures/9e36d7246f235667ca7cbcc9a52cce0c"
+            },
+            "id": "7606"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     12.986922,
                     55.604772
                 ],
