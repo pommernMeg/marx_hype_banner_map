@@ -37,6 +37,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    6.776224,
+                    51.22629
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - DUS",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-dus-2d9c",
+                "picture": "https://api.bannergress.com/bnrs/pictures/4511afc0173edbf69aae845be8ab945b"
+            },
+            "id": "2d9c"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     10.779112,
                     51.834139
                 ],
