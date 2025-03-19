@@ -69,6 +69,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    6.95848,
+                    50.941761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Cologne",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-cologne-c1c0",
+                "picture": "https://api.bannergress.com/bnrs/pictures/90686a8fcf6ef2eb0df1ef96885c8fc6"
+            },
+            "id": "c1c0"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     17.021367,
                     51.111155
                 ],
@@ -80,6 +96,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/3754caab727779848f546f35d285e22b"
             },
             "id": "ca1b"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    11.394294,
+                    47.265681
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Innsbruck",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-innsbruck-a65a",
+                "picture": "https://api.bannergress.com/bnrs/pictures/e58711cfade7786f4ea90449fcce2648"
+            },
+            "id": "a65a"
         }
     ]
 }
