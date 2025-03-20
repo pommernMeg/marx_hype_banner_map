@@ -69,6 +69,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    11.92346,
+                    50.308258
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx-O-Maly is calling you! - Hof",
+                "url": "https://bannergress.com/banner/marx-o-maly-is-calling-you-hof-f073",
+                "picture": "https://api.bannergress.com/bnrs/pictures/6cc96dd358da3355d2b2a7f661c06032"
+            },
+            "id": "f073"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     6.95848,
                     50.941761
                 ],
