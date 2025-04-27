@@ -37,6 +37,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    8.676081,
+                    49.404325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Heidelberg",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-heidelberg-e69d",
+                "picture": "https://api.bannergress.com/bnrs/pictures/7467e18fddbee4ce4ffdda1217305b03"
+            },
+            "id": "e69d"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     6.776224,
                     51.22629
                 ],
@@ -64,6 +80,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/4adb97fb1e2b16491d010bf072ac1cd1"
             },
             "id": "4652"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    4.356531,
+                    50.84578
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Brussels",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-brussels-2d0a",
+                "picture": "https://api.bannergress.com/bnrs/pictures/7e7ec46a2f2495a592b4e883022c17d8"
+            },
+            "id": "2d0a"
         },
         {
             "type": "Feature",
@@ -101,6 +133,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    13.259994,
+                    53.561425
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Neubrandenburg",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-neubrandenburg-2205",
+                "picture": "https://api.bannergress.com/bnrs/pictures/f31d45d0a261a1a3a1847eb5ec194cf4"
+            },
+            "id": "2205"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     17.021367,
                     51.111155
                 ],
@@ -112,6 +160,38 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/3754caab727779848f546f35d285e22b"
             },
             "id": "ca1b"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    9.463284,
+                    53.92852
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Kreis Steinburg",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-kreis-steinburg-21d6",
+                "picture": "https://api.bannergress.com/bnrs/pictures/5486057bb41c4078ada2ac75b83c6980"
+            },
+            "id": "21d6"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    24.941509,
+                    60.17078
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Helsinki",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-helsinki-e8fc",
+                "picture": "https://api.bannergress.com/bnrs/pictures/100c70bed9d68caf379ec63ccdfa6c81"
+            },
+            "id": "e8fc"
         },
         {
             "type": "Feature",
