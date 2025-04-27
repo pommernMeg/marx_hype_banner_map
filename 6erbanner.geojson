@@ -101,6 +101,38 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    4.05319,
+                    48.290099
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Troyes",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-troyes-d1b5",
+                "picture": "https://api.bannergress.com/bnrs/pictures/1e07e7959c3fe8729a45ae135d7dbe74"
+            },
+            "id": "d1b5"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    24.748886,
+                    42.144427
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you – Plovdiv",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-plovdiv-c02b",
+                "picture": "https://api.bannergress.com/bnrs/pictures/b0d2e82c45ff83fa2a0a7d7e3c23ffaa"
+            },
+            "id": "c02b"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     11.919342,
                     50.314277
                 ],
@@ -149,6 +181,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    2.401501,
+                    48.843061
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Paris",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-paris-0c79",
+                "picture": "https://api.bannergress.com/bnrs/pictures/aad88eb58e592049c6a5f1ee828a5f32"
+            },
+            "id": "0c79"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     13.261756,
                     53.561402
                 ],
@@ -160,6 +208,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/6b0ad5ccfffd041be5a78ec6f05071c3"
             },
             "id": "459a"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    8.968682,
+                    48.359572
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Hechingen",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-hechingen-f323",
+                "picture": "https://api.bannergress.com/bnrs/pictures/40e7f20b4308610b188da057c8edc991"
+            },
+            "id": "f323"
         },
         {
             "type": "Feature",
@@ -229,6 +293,54 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    0.199786,
+                    49.505089
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Harfleur - FRANCE ",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-harfleur-france-6fd7",
+                "picture": "https://api.bannergress.com/bnrs/pictures/e1b8b7ea55978ef8b0da1cf7ebe7df6e"
+            },
+            "id": "6fd7"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    7.630635,
+                    47.808089
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Müllheim",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-müllheim-e123",
+                "picture": "https://api.bannergress.com/bnrs/pictures/2dafb21a51ea6fd39671beb8a4e19328"
+            },
+            "id": "e123"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    9.710544,
+                    49.564055
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you – Lauda",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-lauda-64e9",
+                "picture": "https://api.bannergress.com/bnrs/pictures/f875fe5e970e4af8697f13b374929361"
+            },
+            "id": "64e9"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     10.904965,
                     48.362459
                 ],
@@ -256,6 +368,38 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/db354772aba6f5b9fe7b6321a5122edb"
             },
             "id": "0126"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    24.958098,
+                    60.168094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Helsinki",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-helsinki-8fbf",
+                "picture": "https://api.bannergress.com/bnrs/pictures/91093873b4ccee44b8e6958984073302"
+            },
+            "id": "8fbf"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    7.117108,
+                    50.954064
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Refrath",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-refrath-5aed",
+                "picture": "https://api.bannergress.com/bnrs/pictures/ddb4fa0223a11c62d041c4551846d0dd"
+            },
+            "id": "5aed"
         },
         {
             "type": "Feature",
