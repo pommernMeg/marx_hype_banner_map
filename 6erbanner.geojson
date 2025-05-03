@@ -101,6 +101,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    27.614796,
+                    57.811406
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "mini Marx is calling you – Pechory ",
+                "url": "https://bannergress.com/banner/mini-marx-is-calling-you-pechory-410a",
+                "picture": "https://api.bannergress.com/bnrs/pictures/6d2d91a049accb07410a4056b72a33b2"
+            },
+            "id": "410a"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     4.05319,
                     48.290099
                 ],
@@ -224,6 +240,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/40e7f20b4308610b188da057c8edc991"
             },
             "id": "f323"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    7.441007,
+                    46.947275
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Bern",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-bern-64bd",
+                "picture": "https://api.bannergress.com/bnrs/pictures/fb456c649f2741d782a096d8af0669c8"
+            },
+            "id": "64bd"
         },
         {
             "type": "Feature",
