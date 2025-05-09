@@ -213,6 +213,22 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
+                    5.107426,
+                    52.773548
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Medemblik",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-medemblik-b417",
+                "picture": "https://api.bannergress.com/bnrs/pictures/493487377a9a8dc4c2c82b4fb700b971"
+            },
+            "id": "b417"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
                     13.261756,
                     53.561402
                 ],
@@ -224,6 +240,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/6b0ad5ccfffd041be5a78ec6f05071c3"
             },
             "id": "459a"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    22.276142,
+                    60.452227
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Turku",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-turku-7dfa",
+                "picture": "https://api.bannergress.com/bnrs/pictures/d790b5f033c76ee3807ec65b1baa7555"
+            },
+            "id": "7dfa"
         },
         {
             "type": "Feature",
@@ -448,6 +480,22 @@
                 "picture": "https://api.bannergress.com/bnrs/pictures/45a31793722a095ecab7da35b4c612c3"
             },
             "id": "cd33"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    25.656397,
+                    60.984212
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marx is calling you - Lahti",
+                "url": "https://bannergress.com/banner/marx-is-calling-you-lahti-64d7",
+                "picture": "https://api.bannergress.com/bnrs/pictures/0ac887b4ac35296f792af9f153378fdc"
+            },
+            "id": "64d7"
         }
     ]
 }
